@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+e:\studies\5\сп (1-14)\4\consoleapplication1\consoleapplication1.cpp(1): warning C4603: _WIN32_WINNT: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  e:\studies\5\сп (1-14)\4\consoleapplication1\consoleapplication1.cpp(1): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  e:\studies\5\сп (1-14)\4\consoleapplication1\consoleapplication1.cpp(2): note: использование предварительно скомпилированного заголовка
+  ConsoleApplication1.vcxproj -> E:\Studies\5\СП (1-14)\4\Debug\ConsoleApplication1.exe

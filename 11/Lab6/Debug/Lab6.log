@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Lab6.cpp
+e:\studies\5\сп (+)\11\lab6\lab6.cpp(103): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Lab6.vcxproj -> E:\Studies\5\СП (+)\11\Lab6\Debug\Lab6.exe

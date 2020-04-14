@@ -1,0 +1,5 @@
+﻿  Lab_007.cpp
+e:\studies\5\сп (+)\12\lab_007\lab_007\lab_007.cpp(122): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+e:\studies\5\сп (+)\12\lab_007\lab_007\lab_007.cpp(124): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+e:\studies\5\сп (+)\12\lab_007\lab_007\lab_007.cpp(186): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+  Lab_007.vcxproj -> E:\Studies\5\СП (+)\12\Lab_007\x64\Debug\Lab_007.exe

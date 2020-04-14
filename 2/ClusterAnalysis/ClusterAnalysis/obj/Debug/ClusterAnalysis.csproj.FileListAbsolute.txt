@@ -1,0 +1,13 @@
+D:\sp\2\ClusterAnalysis\ClusterAnalysis\bin\Debug\ClusterAnalysis.exe.config
+D:\sp\2\ClusterAnalysis\ClusterAnalysis\bin\Debug\ClusterAnalysis.exe
+D:\sp\2\ClusterAnalysis\ClusterAnalysis\bin\Debug\ClusterAnalysis.pdb
+D:\sp\2\ClusterAnalysis\ClusterAnalysis\obj\Debug\ClusterAnalysis.csprojAssemblyReference.cache
+D:\sp\2\ClusterAnalysis\ClusterAnalysis\obj\Debug\ClusterAnalysis.exe
+D:\sp\2\ClusterAnalysis\ClusterAnalysis\obj\Debug\ClusterAnalysis.pdb
+E:\Studies\5\СП (1-14)\2\ClusterAnalysis\ClusterAnalysis\bin\Debug\ClusterAnalysis.exe.config
+E:\Studies\5\СП (1-14)\2\ClusterAnalysis\ClusterAnalysis\bin\Debug\ClusterAnalysis.exe
+E:\Studies\5\СП (1-14)\2\ClusterAnalysis\ClusterAnalysis\bin\Debug\ClusterAnalysis.pdb
+E:\Studies\5\СП (1-14)\2\ClusterAnalysis\ClusterAnalysis\obj\Debug\ClusterAnalysis.csprojAssemblyReference.cache
+E:\Studies\5\СП (1-14)\2\ClusterAnalysis\ClusterAnalysis\obj\Debug\ClusterAnalysis.csproj.CoreCompileInputs.cache
+E:\Studies\5\СП (1-14)\2\ClusterAnalysis\ClusterAnalysis\obj\Debug\ClusterAnalysis.exe
+E:\Studies\5\СП (1-14)\2\ClusterAnalysis\ClusterAnalysis\obj\Debug\ClusterAnalysis.pdb
